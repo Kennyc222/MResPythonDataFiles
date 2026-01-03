@@ -1,0 +1,1 @@
+This is a project for my Master of Research (MRes) at Macquarie University, a stepping stone of PhD ..This project is about the analysis of hierarchial star formation anaysis of 30 Dor next to the LMC, using another local Cluster for Westerlund 1 (Wd1) as a bracket
