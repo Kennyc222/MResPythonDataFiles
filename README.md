@@ -16,5 +16,5 @@ Here are the files for used:
 
 I have both modified TreeCorr and HaloTools, feel free to use them! 
 
-All algorithms are stored in the folder named ["MResPythonAlgorithm"](https://github.com/Kennyc222/MResPythonAlgorithm) or in [Gist](https://gist.github.com/Kennyc222). They are both publicly accessable in either way
+All algorithms are stored in the folder named ["MResPythonAlgorithm"](https://github.com/Kennyc222/MResPythonAlgorithm) AND in [Gist](https://gist.github.com/Kennyc222). They are both publicly accessable in either way
 
