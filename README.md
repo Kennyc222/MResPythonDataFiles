@@ -12,4 +12,7 @@ Wd1 in the LMC projected distance
 simulated Wd1 with ideal clsuters in terms of stars distribution at the original distance 
 simulated Wd1 with ideal clsuters in terms of stars distribution at the LMC distance 
 
-I have both mofified TreeCorr and HaloTools, feel free to use them! 
+I have both modified TreeCorr and HaloTools, feel free to use them! 
+
+All algorithms are stored in the folder named "MResPythonAlgorithm" or in Gist 
+
