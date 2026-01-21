@@ -14,5 +14,5 @@ simulated Wd1 with ideal clsuters in terms of stars distribution at the LMC dist
 
 I have both modified TreeCorr and HaloTools, feel free to use them! 
 
-All algorithms are stored in the folder named "MResPythonAlgorithm" or in Gist 
+All algorithms are stored in the folder named ["MResPythonAlgorithm"]([https://example.com](https://github.com/Kennyc222/MResPythonAlgorithm)) or in [Gist](https://gist.github.com/Kennyc222). They are both publicly acessable in either way
 
