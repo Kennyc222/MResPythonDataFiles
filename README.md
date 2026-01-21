@@ -3,16 +3,16 @@ This is a project for my Master of Research (MRes) thesis at Macquarie Universit
 Here are the files for used: 
 
 ## 30 Doradus (30 Dor)
-30 Dor (UMS, Upper Main Sequence Stars ) clusters only
-30 Dor (UMS, Upper Main Sequence Stars and RGB, Red Giant Branch ) clusters 
-30 Dor (UMS, Upper Main Sequence Stars ) clusters TreeCorr (in ASCII format) only
-30 Dor (UMS, Upper Main Sequence Stars and RGB, Red Giant Branch ) TreeCorr (in ASCII format) clusters 
+-30 Dor (UMS, Upper Main Sequence Stars ) clusters only
+-30 Dor (UMS, Upper Main Sequence Stars and RGB, Red Giant Branch ) clusters 
+-30 Dor (UMS, Upper Main Sequence Stars ) clusters TreeCorr (in ASCII format) only
+-30 Dor (UMS, Upper Main Sequence Stars and RGB, Red Giant Branch ) TreeCorr (in ASCII format) clusters 
 
 ## Westerlund 1 (Wd1)
-Wd1 original distance
-Wd1 in the LMC projected distance
-simulated Wd1 with ideal clsuters in terms of stars distribution at the original distance 
-simulated Wd1 with ideal clsuters in terms of stars distribution at the LMC distance 
+-Wd1 original distance
+-Wd1 in the LMC projected distance
+-Simulated Wd1 with ideal clsuters in terms of stars distribution at the original distance 
+-Simulated Wd1 with ideal clsuters in terms of stars distribution at the LMC distance 
 
 I have both modified TreeCorr and HaloTools, feel free to use them! 
 
